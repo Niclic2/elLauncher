@@ -1,7 +1,6 @@
 # Полезные Ссылки
+- [elLauncher-0.1.11.zip - Архив с новым интерфейсом](https://github.com/Niclic2/elLauncher/releases/download/elLauncher-0.1.11/elLauncher.zip)
 - [elLauncher-0.0.4.zip - Архив со старым интерфейсом (!Может не работать!)](https://github.com/Niclic2/elLauncher/releases/download/elLauncher-0%2C0%2C4/elLauncher.zip)
-- [elLauncher.bat - установщик (поместить в папку)](https://github.com/Niclic2/elLauncher/releases/download/elLauncher-0.0.3/elLauncher.bat)
-- [elLauncher.zip - Архив с Google диска](https://drive.usercontent.google.com/download?id=1FQLE4HK2QAL7AzXSgmeYQXsPsdLmyrVE&export=download&authuser=0&confirm=t&uuid=0387de40-3e53-4c7e-9a09-e2a44ac1c98f&at=APZUnTUqhmOCihPCVQIWrs-7A4KU:1712899584915)
 # Что делать...
 ### Можно
 - Удалять файлы (кроме установочника), все равно они скачаются заново.
