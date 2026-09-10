@@ -1,4 +1,4 @@
-### Версия 0.1.12 с большими изменениями может быть скоро выложится, но не точно
+### Версия [0.1.12](https://github.com/Niclic2/elLauncher/releases/download/elLauncher-0.1.12/elLauncher-0.1.12.zip) последняя, не работает запуск майна, но приятно посмотреть на другие функции
 # Полезные Ссылки
 - [elLauncher-0.1.11.zip - С новым интерфейсом](https://github.com/Niclic2/elLauncher/releases/download/elLauncher-0.1.11/elLauncher.zip)
 - [elLauncher-0.0.4.zip - Со старым интерфейсом (!Может не работать!)](https://github.com/Niclic2/elLauncher/releases/download/elLauncher-0%2C0%2C4/elLauncher.zip)
